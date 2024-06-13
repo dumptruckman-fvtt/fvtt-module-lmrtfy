@@ -3,7 +3,7 @@
     "name": "lmrtfy",
     "title": "Let Me Roll That For You!",
     "description": "Ask your players to make rolls for you.",
-    "version": "3.00",
+    "version": "#{VERSION}#",
     "author": "KaKaRoTo, iotech, Limping Ninja, Rughalt, Calego, VTT Lair",
     "authors": [
         {
@@ -112,7 +112,7 @@
             {
                 "id": "pf2e",
                 "type": "system",
-                "manifest": "https://github.com/foundryvtt/pf2e/releases/download/3.13.6/system.json",
+                "manifest": "https://github.com/foundryvtt/pf2e/releases/download/5.13.6/system.json",
                 "compatibility": {
                     "verified": "5.13.6"
                 }
@@ -188,9 +188,9 @@
         ]
     },
     "socket": true,
-    "url": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy",
-    "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy/releases/latest/download/module.json",
-    "download": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy/releases/download/v3.00/module.zip",
-    "changelog": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy/releases",
+    "url": "#{URL}#",
+    "manifest": "#{MANIFEST}#",
+    "download": "#{DOWNLOAD}#",
+    "changelog": "https://github.com/dumptruckman-fvtt/fvtt-module-lmrtfy/releases",
     "bugs": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy/issues"
 }
